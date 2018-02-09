@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
- trip
+ trip2
   </body>
 </html>
